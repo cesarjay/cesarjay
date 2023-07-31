@@ -1,7 +1,7 @@
 <h2 align="center">Web Full-stack Engineer</h2>
 
 ## 🚀 Achievements
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nftbigdev&theme=light&count_private=true&layout=compact" alt="nftbigdev's most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarjay&theme=light&count_private=true&layout=compact" alt="nftbigdev's most used languages" />
 
 
 ## Skills
